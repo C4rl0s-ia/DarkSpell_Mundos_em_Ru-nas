@@ -712,7 +712,7 @@ PrefabInstance:
     - target: {fileID: 5292785007535641357, guid: a2edcc9ea7e81a14692097ac93db1338,
         type: 3}
       propertyPath: vidaMaxima
-      value: 200
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5292785007535641357, guid: a2edcc9ea7e81a14692097ac93db1338,
         type: 3}
@@ -17351,7 +17351,7 @@ PrefabInstance:
     - target: {fileID: 5292785007535641357, guid: a2edcc9ea7e81a14692097ac93db1338,
         type: 3}
       propertyPath: vidaMaxima
-      value: 200
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5292785007535641357, guid: a2edcc9ea7e81a14692097ac93db1338,
         type: 3}
@@ -20176,7 +20176,7 @@ PrefabInstance:
     - target: {fileID: 5292785007535641357, guid: a2edcc9ea7e81a14692097ac93db1338,
         type: 3}
       propertyPath: vidaMaxima
-      value: 200
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5292785007535641357, guid: a2edcc9ea7e81a14692097ac93db1338,
         type: 3}
