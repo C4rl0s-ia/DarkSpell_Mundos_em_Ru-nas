@@ -149,6 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7369e6a09b76c84daa9f48c0097c6cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  somQuebrando: {fileID: 8300000, guid: 5cfe2007b022bcf4ea8ff3d82a3b33e0, type: 3}
   vidaMaxima: 20
   spritesQuebrados:
   - {fileID: -6444086117849059413, guid: 86c340fe5ef9c3844b9e2a99f6596e00, type: 3}
@@ -160,7 +161,6 @@ MonoBehaviour:
     type: 3}
   limiteMaximoInimigos: 1
   intervaloChecagem: 1
-  somDestruicao: {fileID: 8300000, guid: e16a2a6e93ad0534bbbe417ef6b7a777, type: 3}
 --- !u!82 &3672596830373083354
 AudioSource:
   m_ObjectHideFlags: 0
