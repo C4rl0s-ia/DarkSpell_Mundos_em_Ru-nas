@@ -4,6 +4,11 @@ using System.Collections.Generic;
 
 public class EstatuaComVida : MonoBehaviour
 {
+    [Header("Som da Estátua Quebrando")]
+    [SerializeField] private AudioClip somQuebrando;
+    private AudioSource audioSource;
+
+
     public int vidaMaxima = 20;
     private int vidaAtual;
 
@@ -31,6 +36,8 @@ public class EstatuaComVida : MonoBehaviour
 
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+
         // Resetar contador de estátuas destruídas só uma vez por cena
         if (!contadorResetado)
         {
@@ -58,6 +65,12 @@ public class EstatuaComVida : MonoBehaviour
 
         if (vidaAtual <= 0)
         {
+            if (somQuebrando != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(somQuebrando);
+            }
+
+
             vidaAtual = 0;
             destruida = true;
 

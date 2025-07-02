@@ -109,9 +109,7 @@ MonoBehaviour:
   dano: 18
   intervaloDano: 1.3
   forcaKnockback: 3
-  vida: 150
-  somDano: {fileID: 0}
-  somMorte: {fileID: 8300000, guid: 672d6f590c5825742969ce700597b660, type: 3}
+  vida: 15
 --- !u!58 &2929636540231842326
 CircleCollider2D:
   m_ObjectHideFlags: 0

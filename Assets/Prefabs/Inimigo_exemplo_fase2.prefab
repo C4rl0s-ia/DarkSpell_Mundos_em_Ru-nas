@@ -108,7 +108,7 @@ MonoBehaviour:
   dano: 5
   intervaloDano: 1.5
   forcaKnockback: 5
-  vida: 30
+  vida: 7
 --- !u!58 &2929636540231842326
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -171,7 +171,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &-6150862434230425529
 CircleCollider2D:
   m_ObjectHideFlags: 0
