@@ -16391,7 +16391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d520d89bce7bd5c42924cf443ca92130, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomeProximaFase: fase1
+  nomeProximaFase: 2_Cutscene
 --- !u!1 &1074806687
 GameObject:
   m_ObjectHideFlags: 0

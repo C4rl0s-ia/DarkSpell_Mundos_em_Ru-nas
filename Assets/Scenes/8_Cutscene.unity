@@ -391,8 +391,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0042d101104711f42bdcb8ff56ce4da7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tempoCutscene: 6
-  proximaCena: Lobby1
+  tempoCutscene: 10
+  proximaCena: 
 --- !u!4 &741865435
 Transform:
   m_ObjectHideFlags: 0

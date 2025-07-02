@@ -77,7 +77,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1104062335
-  m_SortingLayer: 24
+  m_SortingLayer: 18
   m_SortingOrder: 0
   m_Sprite: {fileID: -2828172586999255129, guid: 8e25220e3905b6b4aab154f78414b62d,
     type: 3}
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d520d89bce7bd5c42924cf443ca92130, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomeProximaFase: Lobby2
+  nomeProximaFase: 3_Cutscene
 --- !u!61 &7457091004655705565
 BoxCollider2D:
   m_ObjectHideFlags: 0

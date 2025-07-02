@@ -2646,7 +2646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e898c89c4ae1364abe0eff43442b499, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomeCenaJogoNovo: Lobby1
+  nomeCenaJogoNovo: 1_Cutscene
   mensagemErroTexto: {fileID: 1002089731}
   grupoErroTexto: {fileID: 1002089732}
   mensagemCarregandoTexto: {fileID: 807168367}

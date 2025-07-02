@@ -125,7 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d520d89bce7bd5c42924cf443ca92130, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomeProximaFase: Lobby4
+  nomeProximaFase: 7_Cutscene
 --- !u!61 &6908186460948886090
 BoxCollider2D:
   m_ObjectHideFlags: 0
