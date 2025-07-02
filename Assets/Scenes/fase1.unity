@@ -67755,7 +67755,7 @@ PrefabInstance:
     - target: {fileID: 5292785007535641357, guid: baae35b1a945dfc409e18f28d7c937b8,
         type: 3}
       propertyPath: limiteMaximoInimigos
-      value: 1
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8031502089644515429, guid: baae35b1a945dfc409e18f28d7c937b8,
         type: 3}
@@ -70703,7 +70703,7 @@ PrefabInstance:
     - target: {fileID: 5292785007535641357, guid: baae35b1a945dfc409e18f28d7c937b8,
         type: 3}
       propertyPath: limiteMaximoInimigos
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

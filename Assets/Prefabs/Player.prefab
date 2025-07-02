@@ -241,6 +241,7 @@ GameObject:
   - component: {fileID: 1547370512109933001}
   - component: {fileID: 3540969562303495795}
   - component: {fileID: 494686860329059935}
+  - component: {fileID: 4647535672214080650}
   m_Layer: 0
   m_Name: Cajado
   m_TagString: Untagged
@@ -336,3 +337,21 @@ MonoBehaviour:
   tempoEntreTiros: 0.1
   pontoDeFogo: {fileID: 3672250358330542401}
   tiro: {fileID: 7094780003771410363, guid: c984deaabe9d63246ac0147246534a36, type: 3}
+--- !u!114 &4647535672214080650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568231397276692705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffd54ea85bbd2040a0975fa9ba65f6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  srGum: {fileID: 0}
+  tempoEntreTiros: 0.2
+  tempoRecarga: 5
+  pontoDeFogo: {fileID: 3672250358330542401}
+  tiroEspecial: {fileID: 3628839001281630437, guid: e5e5156474c50ae418aa0166e08650d8,
+    type: 3}
