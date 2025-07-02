@@ -1,0 +1,67 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Diretórios do Unity que não devem ser versionados
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# Configurações específicas de cache do usuário
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+
+# Logs e backups
+*.log
+*.bak
+*.tmp
+*.swp
+
+# Arquivos da Unity gerados automaticamente
+*.generated.cs
+*.csproj
+*.unitypackage
+*.sln
+
+# Diretórios locais da IDE
+.vscode/
+.idea/
+.vs/
+*.code-workspace
+
+# Arquivos de build do Rider
+*.sln.DotSettings.user
+
+# Builds do WebGL e standalone (evite subir builds pesados)
+Build/
+Builds/
+*.apk
+*.aab
+*.exe
+
+# GitHub-specific
+.gitattributes
+.gitattributes.lock
+*.lock
+
+# TextMesh Pro gerado automaticamente
+Assets/TextMesh Pro/Resources/Font Asset Creator Settings.asset
+
+# Se estiver usando Plastic SCM junto com Git
+PlasticSCM/
+
+# Arquivos de configuração local (opcional)
+ProjectSettings/EditorBuildSettings.asset
+
+# Arquivo de configuração de cache de shader
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/

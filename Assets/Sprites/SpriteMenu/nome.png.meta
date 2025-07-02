@@ -1,0 +1,1025 @@
+fileFormatVersion: 2
+guid: c6184251e14e83a46a2b02aaf8f1bda4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4932815627892423614
+    second: nome_0
+  - first:
+      213: 1228629169568676081
+    second: nome_1
+  - first:
+      213: 1212898659790141063
+    second: nome_2
+  - first:
+      213: 5548340254943162900
+    second: nome_3
+  - first:
+      213: -363188164242233857
+    second: nome_4
+  - first:
+      213: -1347637399560356963
+    second: nome_5
+  - first:
+      213: 4977759515860634287
+    second: nome_6
+  - first:
+      213: 7250143723861885176
+    second: nome_7
+  - first:
+      213: -1766925771999167675
+    second: nome_8
+  - first:
+      213: 1002005243046792939
+    second: nome_9
+  - first:
+      213: 3921867786865053832
+    second: nome_10
+  - first:
+      213: -2805970699237913666
+    second: nome_11
+  - first:
+      213: -3274084139588187493
+    second: nome_12
+  - first:
+      213: 2470832413462115329
+    second: nome_13
+  - first:
+      213: 4664845932952400615
+    second: nome_14
+  - first:
+      213: -3619472888540778903
+    second: nome_15
+  - first:
+      213: 1363462880965845984
+    second: nome_16
+  - first:
+      213: -4927212677006706821
+    second: nome_17
+  - first:
+      213: -7152383559102967309
+    second: nome_18
+  - first:
+      213: -5852682840350145107
+    second: nome_19
+  - first:
+      213: -3585278921018758053
+    second: nome_20
+  - first:
+      213: 8483463190570890645
+    second: nome_21
+  - first:
+      213: -9064182296061053440
+    second: nome_22
+  - first:
+      213: 4496947884826039193
+    second: nome_23
+  - first:
+      213: 765711852050781481
+    second: nome_24
+  - first:
+      213: -3707375123864711317
+    second: nome_25
+  - first:
+      213: 721789006102655033
+    second: nome_26
+  - first:
+      213: -1632862905805279566
+    second: nome_27
+  - first:
+      213: 1535290513618422121
+    second: nome_28
+  - first:
+      213: 5933050740775748067
+    second: nome_29
+  - first:
+      213: 7457390942100338708
+    second: nome_30
+  - first:
+      213: -2178187079104686542
+    second: nome_31
+  - first:
+      213: -9048750502769490705
+    second: nome_32
+  - first:
+      213: -6110387097148705221
+    second: nome_33
+  - first:
+      213: 2693320437085168090
+    second: nome_34
+  - first:
+      213: 645553043989250720
+    second: nome_35
+  - first:
+      213: 4228293085165403141
+    second: nome_36
+  - first:
+      213: -6258141323085571896
+    second: nome_37
+  - first:
+      213: -5807532893657096544
+    second: nome_38
+  - first:
+      213: -7825947409426021155
+    second: nome_39
+  - first:
+      213: 1232430320850874161
+    second: nome_40
+  - first:
+      213: 8354744030377385316
+    second: nome_41
+  - first:
+      213: -8868516136415186377
+    second: nome_42
+  - first:
+      213: 4339126392818105980
+    second: nome_43
+  - first:
+      213: 637846063378726962
+    second: nome_44
+  - first:
+      213: 7337358335876787369
+    second: nome_45
+  - first:
+      213: 9078849069514621400
+    second: nome_46
+  - first:
+      213: 6843708944637583234
+    second: nome_47
+  - first:
+      213: -1732880315493933792
+    second: nome_48
+  - first:
+      213: -5136287652093727388
+    second: nome_49
+  - first:
+      213: -6411714141254612785
+    second: nome_50
+  - first:
+      213: 1920755119056300663
+    second: nome_51
+  - first:
+      213: 1344477780996049967
+    second: nome_52
+  - first:
+      213: 1037871776185813990
+    second: nome_53
+  - first:
+      213: 578306942614445161
+    second: nome_54
+  - first:
+      213: 4733379596359294624
+    second: nome_55
+  - first:
+      213: -7240337148400505905
+    second: nome_56
+  - first:
+      213: -1365259463267816881
+    second: nome_57
+  - first:
+      213: -4694595736738134424
+    second: nome_58
+  - first:
+      213: -4750659731110369364
+    second: nome_59
+  - first:
+      213: 1949005638037198179
+    second: nome_60
+  - first:
+      213: -2892477247343628276
+    second: nome_61
+  - first:
+      213: 2988780444590309404
+    second: nome_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nome_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1802
+        width: 138
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbf50bada1e47440800000000000000
+      internalID: 4932815627892423614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1922
+        width: 252
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f2dc58b7fc0110800000000000000
+      internalID: 1228629169568676081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1802
+        width: 198
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786b655a7e415d010800000000000000
+      internalID: 1212898659790141063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1933
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41233e4c01aaffc40800000000000000
+      internalID: 5548340254943162900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1933
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff527b3f942b5faf0800000000000000
+      internalID: -363188164242233857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1802
+        width: 106
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7c29dcea3c4de0800000000000000
+      internalID: -1347637399560356963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1797
+        width: 212
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa813808ed841540800000000000000
+      internalID: 4977759515860634287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1802
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0c05fcd4fad9460800000000000000
+      internalID: 7250143723861885176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1802
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb1873f5e9a77e0800000000000000
+      internalID: -1766925771999167675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1871
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee02eea576d7ed00800000000000000
+      internalID: 1002005243046792939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1802
+        width: 93
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880932429f54d6630800000000000000
+      internalID: 3921867786865053832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_11
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1815
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb05c504803f09d0800000000000000
+      internalID: -2805970699237913666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1768
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a0b1762dd1092d0800000000000000
+      internalID: -3274084139588187493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1777
+        width: 87
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1043eef2df82a4220800000000000000
+      internalID: 2470832413462115329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1710
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2bd8d19acdcb040800000000000000
+      internalID: 4664845932952400615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1710
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eae5ca59c05cdc0800000000000000
+      internalID: -3619472888540778903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_16
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1744
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3666c244efbe210800000000000000
+      internalID: 1363462880965845984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1767
+        width: 105
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b63efc260f9bb0800000000000000
+      internalID: -4927212677006706821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1710
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d2564c01adbc90800000000000000
+      internalID: -7152383559102967309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1710
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c7ed27f717cea0800000000000000
+      internalID: -5852682840350145107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1710
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c2bf321d78e3ec0800000000000000
+      internalID: -3585278921018758053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1710
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595741313d05bb570800000000000000
+      internalID: 8483463190570890645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1710
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00675efc93e853280800000000000000
+      internalID: -9064182296061053440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1710
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9931080864e586e30800000000000000
+      internalID: 4496947884826039193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1710
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9251bcd5fda50aa00800000000000000
+      internalID: 765711852050781481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1710
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f8ce4a7f1cc8cc0800000000000000
+      internalID: -3707375123864711317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_26
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1710
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f78fd64f440a00800000000000000
+      internalID: 721789006102655033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_27
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1710
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be6094a6d7e659e0800000000000000
+      internalID: -1632862905805279566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_28
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1710
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969c04b76927e4510800000000000000
+      internalID: 1535290513618422121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_29
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1767
+        width: 95
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18e4ec63e665250800000000000000
+      internalID: 5933050740775748067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1088
+        width: 796
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4183b170d89fd7760800000000000000
+      internalID: 7457390942100338708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nome_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 680
+        width: 941
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3990d10282c0d44a59b53b2da1a505
+      internalID: -2096655168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4acc3201abbd9242adce523285c3ae2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nome_31: -2096655168
+      nome_63: -949168354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Agua
+  - TileBackGround
+  - Ponte
+  - Bullet
+  - Inimigo
+  - efeitoAudio
+  - musica
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Colisor
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Porta_Portal
+    uniqueID: 681701099
+    locked: 0
+  - name: Portal
+    uniqueID: 3098697533
+    locked: 0
+  - name: Tilemap
+    uniqueID: 4250941897
+    locked: 0
+  - name: TilemapChaoDetalhe
+    uniqueID: 2212744785
+    locked: 0
+  - name: TilemapObjects
+    uniqueID: 2031179107
+    locked: 0
+  - name: TilemapObjectsDetalhes
+    uniqueID: 3486497009
+    locked: 0
+  - name: TilemapMuro
+    uniqueID: 533070599
+    locked: 0
+  - name: TilemapMuroDetalhe
+    uniqueID: 4131351911
+    locked: 0
+  - name: SoloFase3
+    uniqueID: 3731087255
+    locked: 0
+  - name: detalheParedeFase3
+    uniqueID: 56913575
+    locked: 0
+  - name: SoloDetalheFase3
+    uniqueID: 204516351
+    locked: 0
+  - name: ParedeFase3
+    uniqueID: 3447444959
+    locked: 0
+  - name: Detalhes_pilares_fase3
+    uniqueID: 3009924701
+    locked: 0
+  - name: TilemapGrassObject
+    uniqueID: 1559297217
+    locked: 0
+  - name: SoloAltar
+    uniqueID: 3767453049
+    locked: 0
+  - name: CajadoAtaque
+    uniqueID: 3566106467
+    locked: 0
+  - name: "Adere\xE7osAltar"
+    uniqueID: 3190904961
+    locked: 0
+  - name: Player
+    uniqueID: 4189426099
+    locked: 0
+  - name: PilaresCentroFase3
+    uniqueID: 82165529
+    locked: 0
+  - name: Objetos_fase3
+    uniqueID: 240415685
+    locked: 0
+  - name: PilarAltar
+    uniqueID: 3117919343
+    locked: 0
+  - name: Arvores
+    uniqueID: 3493425957
+    locked: 0
+  - name: Pilar
+    uniqueID: 1887283789
+    locked: 0
+  - name: Vida-HUD
+    uniqueID: 533700393
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 762023569
+    locked: 0
+  m_RenderingLayers:
+  - Default

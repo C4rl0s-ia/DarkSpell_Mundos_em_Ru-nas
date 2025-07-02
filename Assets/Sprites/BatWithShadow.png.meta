@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 011b1b619612ccf4d9d92e30f9f8e82b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4465892767022385891
+    second: BatWithShadow_0
+  - first:
+      213: -85415339598157839
+    second: BatWithShadow_1
+  - first:
+      213: 1273795642347271295
+    second: BatWithShadow_2
+  - first:
+      213: 2132574345045597047
+    second: BatWithShadow_3
+  - first:
+      213: 8060786024491134881
+    second: BatWithShadow_4
+  - first:
+      213: 3390900909859864979
+    second: BatWithShadow_5
+  - first:
+      213: 2178634272539113072
+    second: BatWithShadow_6
+  - first:
+      213: 58065949370353498
+    second: BatWithShadow_7
+  - first:
+      213: 8184896092703733646
+    second: BatWithShadow_8
+  - first:
+      213: 3153154839012499326
+    second: BatWithShadow_9
+  - first:
+      213: 4665784407057877394
+    second: BatWithShadow_10
+  - first:
+      213: -5545204528543311727
+    second: BatWithShadow_11
+  - first:
+      213: -1446626262274225280
+    second: BatWithShadow_12
+  - first:
+      213: -1252327090251964775
+    second: BatWithShadow_13
+  - first:
+      213: -1715448092787680168
+    second: BatWithShadow_14
+  - first:
+      213: 3927425848450821692
+    second: BatWithShadow_15
+  - first:
+      213: 6252677000579811350
+    second: BatWithShadow_16
+  - first:
+      213: 5593882798299807343
+    second: BatWithShadow_17
+  - first:
+      213: 374883106112495393
+    second: BatWithShadow_18
+  - first:
+      213: 1332559123374555845
+    second: BatWithShadow_19
+  - first:
+      213: -846770781911615629
+    second: BatWithShadow_20
+  - first:
+      213: 149731200610326881
+    second: BatWithShadow_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatWithShadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855163033897fb4468ed65aaa2332caf
+      internalID: 1040264911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ccd81ea0eb0c4e96cecbe417ec8d4
+      internalID: 89164390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc097e982eadce4e90cee5fff3b903c
+      internalID: 102349876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bef471a161c5648a3f8d2255490b06
+      internalID: -1297730276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a55c92672c12b458d3c11d9a36fcef
+      internalID: 383562812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28257e925222d429d013efd4b67da0
+      internalID: 1018237511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6398492fee4ab64a9e697ef485223e0
+      internalID: 1875330954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ec7bffc9381c4aa738010e73cbe6f
+      internalID: -884473990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8ddc4e091553438163bc83640f48c
+      internalID: 1626113376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edcd5de503b2da43ab51d700a916ee5
+      internalID: -1791189918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a17f452bd43345809c096acfb09c7
+      internalID: -460744975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 16
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1f9dea9e204447b269c4defdf9e40
+      internalID: -1704213741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74b17a7e84ecc9459fc55b1dd6f8bee
+      internalID: 316962654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a36880c68b28e48b4199d6d4567612
+      internalID: -1884908593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b6d0dc9e5a524c83c84a9bcddb050
+      internalID: -866963817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6bc39f35beb2f478d8a21629c2b40f
+      internalID: -1910901677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 16
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eff226497b5884897d61e9351d4d1e
+      internalID: -482710224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02697be9ca379fb46a9fe62fe914a008
+      internalID: -903522964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 16
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07adf93d68699094398166e73cb00d1a
+      internalID: -578978294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c214353e9bc34ba48bf3fd6da7112
+      internalID: 386858900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 8
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8210f79da73d99e4992753962b813160
+      internalID: -1243788795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatWithShadow_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 64
+        height: 8
+      alignment: 9
+      pivot: {x: 16, y: 16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92897f7203f06314fb93b2b8c1c18512
+      internalID: 1932032986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 470c3dc5ba18fba4681cd5fde56367d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":16.0,"y":16.0},"autoSlicingMethod":0,"spriteAlignment":9,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BatWithShadow_0: 1040264911
+      BatWithShadow_1: 89164390
+      BatWithShadow_10: -460744975
+      BatWithShadow_11: -1704213741
+      BatWithShadow_12: 316962654
+      BatWithShadow_13: -1884908593
+      BatWithShadow_14: -866963817
+      BatWithShadow_15: -1910901677
+      BatWithShadow_16: -482710224
+      BatWithShadow_17: -903522964
+      BatWithShadow_18: -578978294
+      BatWithShadow_19: 386858900
+      BatWithShadow_2: 102349876
+      BatWithShadow_20: -1243788795
+      BatWithShadow_21: 1932032986
+      BatWithShadow_3: -1297730276
+      BatWithShadow_4: 383562812
+      BatWithShadow_5: 1018237511
+      BatWithShadow_6: 1875330954
+      BatWithShadow_7: -884473990
+      BatWithShadow_8: 1626113376
+      BatWithShadow_9: -1791189918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
