@@ -15,7 +15,6 @@ public class ControleJogo : MonoBehaviour
         if (pauseMenu != null)
             pauseMenu.SetActive(false);
     }
-
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
