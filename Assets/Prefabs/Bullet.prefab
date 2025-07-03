@@ -200,6 +200,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   tempoDeVida: 3
-  dano: 1
+  dano: 15
   speedBase: 0
   danoBase: 0

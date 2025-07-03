@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 using TMPro;
 using UnityEngine.UI;
 
+/// <summary>
+/// Responsável por exibir informações do jogador na HUD.
+/// </summary>
 public class HUDController : MonoBehaviour
 {
     [Header("Ícones de Ataques")]
@@ -10,19 +13,20 @@ public class HUDController : MonoBehaviour
     public GameObject iconeAtaqueEspecial;
 
     [Header("Status do Player")]
-    public TextMeshProUGUI valorDano;           // Dano da bala
-    public TextMeshProUGUI valorVelocidade;     // Velocidade do player
-    public TextMeshProUGUI valorVelocidadeAtaque; // Velocidade da bala
-    public TextMeshProUGUI valorVida;           // Vida atual/maxima
+    public TextMeshProUGUI valorDano;               // Dano da bala
+    public TextMeshProUGUI valorVelocidade;         // Velocidade do player
+    public TextMeshProUGUI valorVelocidadeAtaque;   // Velocidade da bala
+    public TextMeshProUGUI valorVida;               // Vida atual/máxima
 
     [Header("Referências")]
     public Player player;
-    public Bala balaPrefab; // Prefab da bala que tem o dano e velocidade
+    public Bala balaPrefab;                         // Prefab da bala com dano e velocidade
 
     [Header("Barra de Vida")]
-    public Image barraVida;  // imagem com tipo Fill
+    public Image barraVida;                         // Imagem com tipo Fill
 
-    private string[] cenasComAtaqueEspecial = { "lobby3", "fase3", "lobby4" };
+    // Nomes das cenas que ativam o ataque especial
+    private string[] cenasComAtaqueEspecial = { "Lobby3", "Fase3", "Lobby4" };
 
     private void Start()
     {
@@ -36,12 +40,14 @@ public class HUDController : MonoBehaviour
 
     private void VerificarAtaqueEspecial()
     {
-        string cenaAtual = SceneManager.GetActiveScene().name.ToLower();
+        string cenaAtual = SceneManager.GetActiveScene().name;
+
         bool mostrarEspecial = false;
 
         foreach (string cena in cenasComAtaqueEspecial)
         {
-            if (cenaAtual == cena)
+            // Comparação ignorando maiúsculas/minúsculas
+            if (cenaAtual.Equals(cena, System.StringComparison.OrdinalIgnoreCase))
             {
                 mostrarEspecial = true;
                 break;
@@ -57,7 +63,7 @@ public class HUDController : MonoBehaviour
         if (player == null || balaPrefab == null)
             return;
 
-        // Dano vem da bala
+        // Dano da bala
         if (valorDano != null)
             valorDano.text = balaPrefab.dano.ToString();
 

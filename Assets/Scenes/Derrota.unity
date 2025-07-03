@@ -335,7 +335,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5000
   m_TargetDisplay: 0
 --- !u!224 &1897018057
 RectTransform:
@@ -395,6 +395,7 @@ MonoBehaviour:
   efeitoAudio: {fileID: 0}
   duracaoMensagem: 3
   fadeDuration: 1
+  menuOpcoesCanvas: {fileID: 0}
 --- !u!4 &1911425106
 Transform:
   m_ObjectHideFlags: 0
@@ -560,6 +561,7 @@ MonoBehaviour:
   efeitoAudio: {fileID: 0}
   duracaoMensagem: 3
   fadeDuration: 1
+  menuOpcoesCanvas: {fileID: 0}
 --- !u!114 &2060957931
 MonoBehaviour:
   m_ObjectHideFlags: 0
